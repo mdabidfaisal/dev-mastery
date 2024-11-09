@@ -4,7 +4,7 @@
 
 ### Week 1: DevOps Fundamentals
 - **Topics to Learn**: 
-  - [X] DevOps principles
+  - [ ] DevOps principles
   - [ ] CI/CD basics
   - [ ] Agile and Lean methodologies
   - [ ] Infrastructure as Code (IaC) concepts
